@@ -1,0 +1,26 @@
+Positions 
+one = (40,40)
+two = (175,40)
+three = (300,40)
+four = (40,175)
+five = (175,175)
+six = (300,175)
+seven = (40,300)
+eight = (175,300)
+nine = (300,300)
+
+Square Not Filled means True :
+oneCh = True
+twoCh = True
+threeCh = True
+fourCh = True
+fiveCh = True
+sixCh = True
+sevenCh = True
+eightCh = True
+nineCh = True
+
+All Win Conditions!
+-> 3 across (123, 456, 789)
+-> 3 Down (147, 258, 369)
+-> 2 Diagonal (159, 357)
